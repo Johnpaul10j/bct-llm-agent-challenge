@@ -100,5 +100,5 @@ Solution Paper: Included (Solution_Paper.docx)
 Code Repository: Clean, modular, and well-documented
 
 
-# Author: Umeh Johnpaul
+# Author: Umeh Johnpaul(Team=Hall of Fame)
 ## Competition: DSN X BCT LLM Agent Challenge 2026
